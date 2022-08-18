@@ -1,0 +1,10 @@
+.conditional__exp {
+  width: 100%;
+}
+
+.conditional__exp p {
+  text-align: center;
+  line-height: 100%;
+  font-size: 18px;
+  color: white;
+}
